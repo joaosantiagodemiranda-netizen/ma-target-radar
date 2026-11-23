@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+requests>=2.31
+scikit-learn>=1.4
+lightgbm>=4.3
+shap>=0.45
+matplotlib>=3.8
+sentence-transformers>=2.7   # data step 6 + peer engine only (GPU recommended)
+pytest>=8
